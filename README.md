@@ -4,6 +4,7 @@
 
 I lead cross-functional programs (M&A integration, AI transformation, revenue-critical platforms) and I build on nights and weekends to stay close to the code. This page is the map of what I've built.
 
+- 📘 Author of **Zero to Production** — a 310-page practical guide to building and running production machine-learning systems
 - 🎓 M.S. Electrical & Computer Engineering, Oklahoma State University
 - 🤖 Advanced Certificate in Applied AI/ML, IITM Pravartak
 - 🏅 PMP · PSM I · Google Project Management
@@ -39,7 +40,7 @@ I lead cross-functional programs (M&A integration, AI transformation, revenue-cr
 
 `Python` `TypeScript` `React` `React Native / Expo` `Node.js` `Streamlit` `pandas` `Supabase` `SQLite` `Google ADK` `LLM APIs` `Backtrader` `Docker` `GCP Cloud Run` `C/C++` `Embedded Linux` `MATLAB`
 
-**Program leadership:** M&A integration · AI transformation · data platforms (Palantir Foundry) · Agile/Scrum · executive communication
+**Program leadership:** M&A integration · AI transformation · Agile/Scrum · executive communication
 
 ## 📫 Connect
 
