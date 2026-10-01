@@ -4,7 +4,8 @@
 
 I lead cross-functional programs (M&A integration, AI transformation, revenue-critical platforms) and I build on nights and weekends to stay close to the code. This page is the map of what I've built.
 
-- 🎓 M.S. Electrical & Computer Engineering (Oklahoma State) · Advanced Certificate in Applied AI/ML (IITM Pravartak)
+- 🎓 M.S. Electrical & Computer Engineering, Oklahoma State University
+- 🤖 Advanced Certificate in Applied AI/ML, IITM Pravartak
 - 🏅 PMP · PSM I · Google Project Management
 - 🛠 Earlier: real-time Linux, board bring-up and ML algorithm deployment on industrial embedded systems
 
