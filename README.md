@@ -4,7 +4,7 @@
 
 I lead cross-functional programs (M&A integration, AI transformation, revenue-critical platforms) and I build on nights and weekends to stay close to the code. This page is the map of what I've built.
 
-- 📘 Author of **Zero to Production** — a 310-page practical guide to building and running production machine-learning systems
+- 📘 Wrote **Zero to Production** — a 310-page personal field guide to taking ML systems from prototype to production, drawn from my own projects
 - 🎓 M.S. Electrical & Computer Engineering, Oklahoma State University
 - 🤖 Advanced Certificate in Applied AI/ML, IITM Pravartak
 - 🏅 PMP · PSM I · Google Project Management
