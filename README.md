@@ -27,7 +27,6 @@ I lead cross-functional programs (M&A integration, AI transformation, revenue-cr
 | [**Life Tracker**](https://github.com/kjharshakiran/lifetracker) | A "commitment journal" dashboard: goals cascade from ultimate aim → year → quarter → week → today across six life pillars, with a daily reflection loop. Deliberately un-gamified. | React · Node.js · SQLite |
 | [**EarnIt**](https://github.com/kjharshakiran/earnit) | A family tasks-points-rewards app: parents set up tasks worth points, the kid checks them off daily with a PIN and redeems points for rewards; calendar, shared-schedule support and progress analytics. | Next.js · TypeScript · Tailwind · Firebase · Vercel |
 | [**personalwebsite**](https://github.com/kjharshakiran/personalwebsite) | My personal site and blog. | HTML · CSS · JavaScript |
-| **Threadnest** *(private — case study coming)* | One app for your whole closet: catalog it, try it on, AI styling advice, a marketplace, and give-away/resale when you're done. Mobile app + web + marketing site. | Expo / React Native · TypeScript · Supabase · AI |
 
 ## 🤖 AI agents
 
